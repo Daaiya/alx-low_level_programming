@@ -1,11 +1,11 @@
-#include<stdio.h>
-#include<stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
 /**
  * main - return alphabets boths lower and upper casses
  *
- * Return:Always o (Success)
+ * Return: Always 0 (Success)
  */
-int main (void)
+int main(void)
 {
 int ch = 'a';
 int CH = 'A';
